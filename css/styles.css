@@ -708,6 +708,7 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 0;
   transition: background-color var(--transition);
+  cursor: pointer;
 }
 .modal-close-icon {
   fill: var(--modal-icon-first-fill);
